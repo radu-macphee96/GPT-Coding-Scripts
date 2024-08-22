@@ -1,4 +1,4 @@
-# GPT executed coding script (1)
+# Star Trek coding script (1)
 "Exolinguistic Comprehensive Translation Matrix" - Star Trek =^=
 
 CODE BELOW (❗️but not yet ready for pasting to swift playgrounds or xcode❗️- only for visual analysis)
